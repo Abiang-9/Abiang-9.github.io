@@ -1,16 +1,9 @@
-#### Submitted
-
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Dingbang. Xie</strong>, Hui. Yan*, Yunteng. Xu, Yimin. Zhang, Wanping. Cai, and Xin. Lan (2023). Pyruvate dehydrogenase kinase 1–dependent metabolic reprogramming: A promising target for postmenopausal osteoporosis treatment. <strong>Biomedicine & Pharmacotherapy</strong>. [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S0753332223001993)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Dingbang. Xie</strong>, Hui. Yan*, Yunteng. Xu, Wanping. Cai, Zhuo. Junkuan，Zaishi. Zhu, Haifeng. Zhang and Yimin. Zhang  (2023). Icariin promotes osteogenic differentiation by upregulating alpha-enolase expression. <strong>Biochemistry and Biophysics Reports. [[Paper]](https://linkinghub.elsevier.com/retrieve/pii/S2405580823000523) 
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Dingbang. Xie</strong>, Yimin. Zhang, Hui. Yan*, Xin. Lan，Wanping. Cai，Yangrong.Lin，Jingdi. Li and Yihang. Zou (2024). Identification of key ferrotoposis-related therapeutic targets in icariin efficacy for postmenopausal osteoporosis treatment. <strong>Pharmacological Research - Modern Chinese Medicine</strong>. [[Paper]]）(https://linkinghub.elsevier.com/retrieve/pii/S2667142524000708)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- Yunteng. Xu*，Dezun. Ma*，Hui. Yan，Jingdi. Li<strong>Dingbang. Xie</strong>, Yaoting. Zou, and Jiapo. Zou (2025). miR-376c-3p mediates icariin's anti-osteoclastogenic effect by targeting Mmp3. <strong>Journal of Orthopaedic Surgery and Research</strong>.[[Paper]](https://pubmed.ncbi.nlm.nih.gov/41484919/)

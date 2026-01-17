@@ -1,13 +1,13 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- The 8th National College Students' Life Science Competition-National Gold Award, 2023.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- The 18th "Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition-National Silver Award, 2024.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- The 18th Fujian Provincial "Challenge Cup" Extracurricular Academic and Technological Works Competition for College Students-Provincial Gold Award, 2023.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+- University Third-Class Scholarship (FJTCM), 2023.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- University-level individual scholarship (FJTCM), 2022.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- University Second-Class Scholarship (FJTCM), 2022
 
