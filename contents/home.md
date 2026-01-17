@@ -1,7 +1,3 @@
-
-
-[![Abiang-9](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Abiang-9)
-
 He is currently a postgraduate student in the Spine Surgery Department of the Third Clinical Medical College of Peking University.
 
 #### Contact
